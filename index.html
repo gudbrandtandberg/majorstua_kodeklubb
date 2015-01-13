@@ -1,11 +1,49 @@
-<!DOCTYPE html>
 <html>
-	<head>
 
+<head>
+	<meta charset="utf-8">
+	<title>Majorstua Kodeklubb</title>
+	<link rel="stylesheet" href="style.css"</link>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			
+			$("#innhold").load("hjem.html");
+			
+			$(".knapp").mouseenter(function(){
+				$(this).animate({opacity: 0.25}, 300, function(){});
+			});
+			$(".knapp").mouseleave(function(){
+				$(this).animate({opacity: 1}, 300, function(){});
+			});
+			$(".knapp").click(function(){
+				var skalTil = $(this).attr("id")+".html";
+				$("#innhold").load(skalTil);
+				
+			})
+		});
+	</script>
+</head>
 
-	</head>
+<body>
+	<div id="header">
+		
+		<div id="meny">
+			<div class="knapp" id="hjem">
+				hjem
+			</div>
+			<div class="knapp" id="prosjekter">
+				prosjekter
+			</div>
+			<div class="knapp" id="kalender">
+				kalender
+			</div>
+		</div>
+	</div>
+	
+	<div id="innhold">
+		
+	</div>
 
-	<body>
-		Hello, world!
-	</body>
+</body>
 </html>
