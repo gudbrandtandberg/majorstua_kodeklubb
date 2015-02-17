@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<title>Eksempel 2</title>
+	<meta charset="UTF-8">	
+	<style>
+	    body {
+		    margin: 0;
+		    background-color: #ADD8E6;
+		    font-family: Verdana;
+	    }
+    
+	    #overskrift {
+		    background-image: url("http://upload.wikimedia.org/wikipedia/commons/d/d5/		Sunflowers.jpg");
+		    height: 400px;
+		    margin: 0 auto;
+		    padding-left: 100px;
+		    padding-top: 50px;
+		    font-size: 50pt;
+		    color: yellow;
+	    }
+    
+	    #jente {
+		    width: 300px;
+		    float: left;
+		    padding-left: 30px;
+		    padding-top: 30px;
+		    padding-right: 30px;
+		    padding-bottom: 30px;
+	    }
+    
+	    #katt {
+		    width: 100px;
+		    float: right;
+		    padding-right: 270px;
+	    }
+    
+	    .tekst {
+		    color: #FF6347;
+		    padding-left: 100px;
+	    }
+	</style>
+    </head>
+    
+    <body>
+	<h1 id="overskrift"> Min hjemmeside </h1>
+	
+	<div>
+	    <img id="jente" src="jente.png">
+	</div>
+	    
+	<div class="tekst">
+	    
+	    <h3> Om meg </h3>
+		    
+	    <p> Jeg er en 20 år gammel jente som bor i Oslo. Ukedagene mine bruker jeg på å studere og jobbe i en butikk. Det er gøy og litt utfordrende. </p>	    
+	    <p>På fritiden min liker jeg å være med venner, lese bøker, programmere hjemmesider og være ute i naturen. </p>    
+	    <p> Familien min består av mamma, meg og katten min Leo. Her er et bilde av han: <p>
+		    
+	    <img id="katt"src="katt.png">
+	</div>
+    </body>
+</html>

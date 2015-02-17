@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Eksempel 3</title>
+        <meta charset="UTF-8">
+        <style>
+            body {
+                background-color: lightbeige;
+            }
+            #tabellen {
+                width: 100%;
+                font-family: arial;
+                border: 2px solid blue;
+            }
+            #tittel {
+                text-align: center;
+            }
+            #topptekst {
+                padding-left: 15px;
+                padding-right: 15px;
+            }
+            .boks {
+                height: 200px;
+                width: 100px;
+                border: 2px dashed cyan;
+                text-align: center;
+            }
+            a {
+                text-decoration: none;
+            }
+        </style>
+    </head>
+    
+    <body>
+        
+        <table id="tabellen">
+            <thead>
+                <tr id="tittel">
+                    <td colspan="3"><h1>Dette er min hjemmeside!</h1></td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td colspan="3" id="topptekst">
+                        <p>
+                            Denne siden er egentlig bare en stor tabell! Over ser du en rad med tittel. Der har vi brukt
+                            attributten colspan="3" for at tittelen skal strekke seg over tre kolonner i tabellen.
+                            Det har vi gjort i denne raden her også. 
+                        </p>
+                        <p>
+                            Dette er den andre raden. Her beskriver vi hvordan siden er bygget opp. Under ser du to rader
+                            med tre kolonner i hver rad. For stylingen har vi gitt disse boksene class="boks". Vi har også gitt id'er til noen av elementene.
+                        </p>
+                        <p>
+                            De viktigste taggene når det gjelder tabeller er: &lttable&gt, &ltthead&gt, &lttbody&gt
+                            &lttr&gt og &lttd&gt. De to siste leser du "tabellrad" og "tabelldata".
+                        </p>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="boks">
+                        <a href="#">
+                            <img src="gutt.png" width="98px">
+                            <p>Om meg</p>
+                        </a>
+                    </td>
+                    <td class="boks">
+                        <a href="#">
+                            <img src="bok.png" width="98px">
+                            <p>Bøker</p>
+                        </a>
+                    </td>
+                    <td class="boks">
+                        <a href="#">
+                            <img src="spill.jpg" width="98px">
+                            <p>Spill</p>
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="boks">
+                        <a href="#">
+                            <img src="film.jpg" width="98px">
+                            <p>Filmer</p>
+                        </a>
+                    </td>
+                    <td class="boks">
+                        <a href="#">
+                            <img src="dyr1.jpg" width="98px">
+                            <p>Dyr</p>
+                        </a>
+                    </td>
+                    <td class="boks">
+                        <a href="#">
+                            <img src="venner.jpg" width="98px">
+                            <p>Venner</p>
+                        </a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

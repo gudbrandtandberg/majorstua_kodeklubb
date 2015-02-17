@@ -1,90 +1,92 @@
 <!DOCTYPE html>
-    <html>
-        <head>
-            <meta charset="UTF-8">
-            <style type="text/css">
-                body {
-                    margin: 0;
-                    padding: 0;
-                    font-family: helvetica;
-                }
-                #toppboks {
-                    width: 100%;
-                    background-color: olive;
-                    height: 150px;
-                }
-                h1 {
-                    text-align: center;
-                    height: 50px;
-                    padding: 50px 0px;
-                    margin: 0;
-                    font-size: 3em;
-                }
-                a {
-                    color: black;
-                }
-                .boks {
-                    width: 31%;
-                    float: left;
-                    height: 1000px;
-                    margin: 0;
-                    padding: 1%;
-                }
-                .fotoboks {
-                    margin: 0 auto;
-                    width: 200px;
-                }
-                #boks1 {
-                    background-color: green;
-                }
-                #boks2 {
-                    
-                    background-color: lightblue;
-                }
-                #boks3 {
-                    
-                    background-color: yellow;
-                }
-            </style>
-        </head>
-        <body>
-            <div id="toppboks">
-                <h1>MITT NAVN</h1>
+<html>
+    <head>
+        <title>Eksempel 1</title>
+        <meta charset="UTF-8">
+        <style>
+            body {
+                margin: 0;
+                padding: 0;
+                font-family: helvetica;
+            }
+            #toppboks {
+                width: 100%;
+                background-color: #33D685;
+                height: 150px;
+            }
+            h1 {
+                text-align: center;
+                height: 50px;
+                padding: 50px 0px;
+                margin: 0;
+                font-size: 3em;
+            }
+            a {
+                color: black;
+            }
+            .boks {
+                width: 31%;
+                float: left;
+                height: 1000px;
+                margin: 0;
+                padding: 1%;
+            }
+            .fotoboks {
+                margin: 0 auto;
+                width: 200px;
+            }
+            #boks1 {
+                background-color: #B2F0D1;
+            }
+            #boks2 {
+                
+                background-color: #19D175;
+            }
+            #boks3 {
+                
+                background-color: #005229;
+            }
+        </style>
+    </head>
+    
+    <body>
+        <div id="toppboks">
+            <h1>MITT NAVN</h1>
+        </div>
+        
+        <div id="boks1" class="boks">
+            <h2>Velkommen</h2>
+            <p>
+                Velkommen til hjemmesiden min. Her kan du lese litt om meg og mine interresser.
+            </p>
+            <div class="fotoboks">
+                <img src="guttbilde.jpg" width="200">
             </div>
-            
-            <div id="boks1" class="boks">
-                <h2>Velkommen</h2>
-                <p>
-                    Velkommen til hjemmesiden min. Her kan du lese litt om meg og mine interresser.
-                </p>
-                <div class="fotoboks">
-                    <img src="guttbilde.jpg" width="200">
-                </div>
+        </div>
+        
+        <div id="boks2" class="boks">
+            <h2>Fotball</h2>
+            <p>
+                Jeg liker å spille fotball på fritiden min. Her er noen lenker jeg liker å se på i blant:
+            </p>
+            <ul>
+                <li><a href="#">Boing</a></li>
+                <li><a href="#">Barcelona</a></li>
+                <li><a href="#">FIFA</a></li>
+            </ul>
+        </div>
+        
+        <div id="boks3" class="boks">
+            <h2>Venner</h2>
+            <p>Her er noen av vennen mine</p>
+            <div class="fotoboks">
+                <img src="venn1.gif" width="200">
+                <p>Jenny</p>
             </div>
-            
-            <div id="boks2" class="boks">
-                <h2>Fotball</h2>
-                <p>
-                    Jeg liker å spille fotball på fritiden min. Her er noen lenker jeg liker å se på i blant:
-                </p>
-                <ul>
-                    <li><a href="#">Boing</a></li>
-                    <li><a href="#">Barcelona</a></li>
-                    <li><a href="#">FIFA</a></li>
-                </ul>
+            <div class="fotoboks">
+                <img src="venn2.jpg" width="200">
+                <p>Petter</p>
             </div>
-            
-            <div id="boks3" class="boks">
-                <h2>Venner</h2>
-                <p>Her er noen av vennen mine</p>
-                <div class="fotoboks">
-                    <img src="venn1.gif" width="200">
-                    <p>Jenny</p>
-                </div>
-                <div class="fotoboks">
-                    <img src="venn2.jpg" width="200">
-                    <p>Petter</p>
-                </div>
-            </div>
-        </body>
-    </html>
+        </div>
+    </body>
+</html>
