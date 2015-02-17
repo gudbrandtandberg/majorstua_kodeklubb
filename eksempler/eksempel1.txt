@@ -10,7 +10,7 @@
                 }
                 #toppboks {
                     width: 100%;
-                    background-color: #33D685;
+                    background-color: olive;
                     height: 150px;
                 }
                 h1 {
@@ -35,15 +35,15 @@
                     width: 200px;
                 }
                 #boks1 {
-                    background-color: #B2F0D1;
+                    background-color: green;
                 }
                 #boks2 {
                     
-                    background-color: #19D175;
+                    background-color: lightblue;
                 }
                 #boks3 {
                     
-                    background-color: #005229;
+                    background-color: yellow;
                 }
             </style>
         </head>

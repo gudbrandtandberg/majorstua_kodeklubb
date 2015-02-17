@@ -21,27 +21,29 @@ Timene deles opp i to deler; 'se og lær' og 'prøv, gjør og spør'.
 	- litt om CSS
 	- vi lærer CSS-kommandoer
 
-4.time
+4. og 5.time
 	- programmeringstime; i dag bygger vi hjemmeside!
 
 
 Mail til foreldre: 
 
-Kjære alle påmeldte og deres foresatte!
+Kjære alle påmeldte og foresatte!
 
 Det aller viktigste:
-Dette er en liten mail med praktisk informasjon angående 'Lag din egen hjemmeside'-kurset dere har meldt dere på. Kurset vil holdes hver ___dag klokken 16:00 i Deichmannske bibliotek på Majorstuen. Det kommer til å være rundt 12 barn påmeldt i alderen 10-14. Kurset går over fire uker uten avbrudd. 
+Dette er en liten mail med praktisk informasjon angående 'Lag din egen hjemmeside'-kurset dere har meldt dere på. Kurset vil holdes hver torsdag klokken 16:30 i Deichmannske bibliotek på Majorstuen. Kurset går over seks uker fra 19.2 til 26.3 (NB: ingen kurs 12. mars grunnet stengt bibliotek!). Det kommer til å være rundt 10 barn påmeldt i alderen 10-14.
 
 Litt om kurset:
-Vi mener at forståelse for, og mestring av digital teknologi er en stadig viktigere egenskap i dagens samfunn og i fremtiden. Om ingenting gjøres vil tomrommet mellom forbruker og skaper bli altfor stort, og det kan tenkes at dette kan ha negative konsekvenser for samfunnet. Derfor syns vi det er lurt å gi barn et innblikk i forskjellige deler av teknologien rundt oss i en tidlig alder. Dette er meninger som deles av nettverket Lær Kidsa Koding, og organisasjonen Kodeklubben.  
+Vi mener at forståelse for, og mestring av digital teknologi er en stadig viktigere egenskap i dagens samfunn og i fremtiden. Om ingenting gjøres vil tomrommet mellom forbruker og skaper vokse over alle grenser, og det kan tenkes at dette kan ha negative konsekvenser for menneskeheten. Derfor syns vi det er lurt å gi barn et innblikk i forskjellige deler av teknologien rundt oss i en tidlig alder. Dette er meninger som deles av nettverket Lær Kidsa Koding, og organisasjonen Kodeklubben, se kidsakoder.no og kodeklubben.no for litt bakgrunnsinfo.  
 
 Hva må du ha med:
-Hvert barn må ha med seg egen bærbare datamaskin. Hvis maskinen er passordbeskyttet har vi erfart at det er lurt at barnet kan passordet. Vi kommer ikke til å behøve internett-tilgang, noe som gjør oppsett veldig enkelt for oss. Det eneste vi trenger er en enkel teksteditor (TextEdit, TextPad, Notepad; ikke Word!) og en internetbrowser (Safari, Chrome, Internet Explorer, Opera, Firefox). Målet med kurset er jo å lage en hjemmeside, og da er det jo viktig å ha litt innhold. Det er fint om dere kan forberede en mappe med ressurser (bilder, videoer eller noe annet) som vi kan bruke i siden. Dette kan også gjøres underveis i kurset, uansett fint om foresatte hjelper til med dette.
-
-mappe
+Hvert barn må ha med seg egen bærbare datamaskin. Hvis maskinen er passordbeskyttet har vi erfart at det er lurt at barnet kan passordet. Vi kommer ikke til å behøve internett-tilgang, noe som gjør oppsett veldig enkelt for oss. Det eneste vi trenger er en enkel teksteditor (TextEdit, TextPad, Notepad eller liknende - alle datamaskiner har en eller annen variant av disse; Microsoft Word duger ikke!) og en internetbrowser (Safari, Chrome, Internet Explorer, Opera, Firefox, her er det fritt fram). Målet med kurset er jo å lage en hjemmeside, og da er det jo viktig å ha litt innhold. Det er fint om dere kan forberede en mappe med ressurser (bilder, videoer eller noe annet) som vi kan bruke i siden. Dette kan også gjøres underveis i kurset, uansett fint om foresatte hjelper til med dette.
 
 Sikkerhet:
+Når det gjelder barn og internet er det jo alltid et spørsmål om sikkerhet, så vi sier noe om det her. Nettsidene vi lager kommer ikke til å bli lagt ut på internet, alt kommer til å bli lagret lokalt, for eksempel i en mappe /Desktop/MinHjemmesideMappe. Så det er ingen fare for at bilder ol. skal havne i feil hender. I tillegg så unngår vi jo alle mulige slags internetfarer ved å ikke være på internett, så alt som angår virus og uheldige nedlastinger blir også automatisk utelukket.
 
+Det er jo veldig naturlig at når kurset er ferdig så vil barna ha sidene sine online, vi håper ihvertfall de vil det. Dette kan vi hjelpe til med når kurset er ferdig, det er ikke så altfor vanskelig å bruke en dropbox til web-hosting eller evt. å kjøpe et domene i domeneshop.no (dette koster rundt 15kr/måneden - kanskje en fin bursdagsgave!?). Om det ønskes så kan vi lage oppskrift på det til slutt. 
+
+Da er det bare å begynne å glede seg - det gjør vi!
 
 Hilsen lærerne Sarah og Gudbrand
 
